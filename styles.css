@@ -1,3 +1,11 @@
+
+#MAX{
+	width: 26%;
+	position: relative;
+  	top: 50px;
+  	left: -900px;
+}
+
 body{
     all: unset;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -7,12 +15,7 @@ body{
 
 }
 
-#MAX{
-	width: 26%;
-	position: relative;
-  	top: 50px;
-  	left: -900px;
-}
+
 #header {
     margin: 20px;
     font-size: 30px;
