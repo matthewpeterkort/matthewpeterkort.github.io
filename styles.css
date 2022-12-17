@@ -13,20 +13,34 @@ body{
     background-color: #FBFAF5;
     border-radius: 5px;
     border: 2px solid;
+
+
 }
+
+
 #headerContent{
     padding: 12px;
-    margin: 0 auto; width: 1000px;
+    margin: 0 auto; width: 1000px;'
+    bottom: 20px;
+
 }
+
+
 
 h1 {
     margin: 0;
     padding: 0;
+    position: relative;
+    bottom: 5px;
+
 }
 .new_one{
 
-    font-size: 35px;
+    font-size: 50px;
     float:right;
+    position: relative;
+    top: -70px;
+
 }
 .main{
     background-color: #FBFAF5;
@@ -91,9 +105,22 @@ h3{
 }
 
 
+
 h1.DISCLAIMER{
     margin: 10px;
 
     color: red;
 
 }
+#MAX{
+	width: 26%;
+	position: relative;
+  	top: 50px;
+  	left: -900px;
+}
+
+#title {
+position: relative;
+bottom: 40px;
+
+	
