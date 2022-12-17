@@ -7,6 +7,12 @@ body{
 
 }
 
+#MAX{
+	width: 26%;
+	position: relative;
+  	top: 50px;
+  	left: -900px;
+}
 #header {
     margin: 20px;
     font-size: 30px;
@@ -112,12 +118,7 @@ h1.DISCLAIMER{
     color: red;
 
 }
-#MAX{
-	width: 26%;
-	position: relative;
-  	top: 50px;
-  	left: -900px;
-}
+
 
 #title {
 position: relative;
