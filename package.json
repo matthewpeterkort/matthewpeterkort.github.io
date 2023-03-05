@@ -2,17 +2,18 @@
   "private": true,
   "scripts": {
     "dev": "next",
-    "build": "node ./scripts/gen-rss.js && next build",
+    "build": "next build",
     "start": "next start"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "next": "latest",
+    "next": "^13.2.3",
     "nextra": "^2.0.0-beta.5",
     "nextra-theme-blog": "^2.0.0-beta.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "rss": "^1.2.2"
+    "rss": "^1.2.2",
+    "storybook": "^6.5.16"
   },
   "devDependencies": {
     "@types/node": "^18.0.0",
