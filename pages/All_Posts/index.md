@@ -1,6 +1,6 @@
 ---
 type: posts
-title: Posts
+title: All Posts
 date: 2021-03-18
 ---
 
