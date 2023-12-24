@@ -7,7 +7,6 @@ const withNextra = require('nextra')({
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  target: "serverless",
   images: {
     unoptimized: true,
   },
