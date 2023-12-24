@@ -7,7 +7,7 @@ const withNextra = require('nextra')({
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  target: "serverless",
   images: {
     unoptimized: true,
   },
@@ -16,3 +16,4 @@ const nextConfig = {
 }
 
 module.exports = withNextra(nextConfig)
+
